@@ -1,0 +1,25 @@
+# The Big Story Media
+
+> Digital marketing agency specializing in AI-powered advertising solutions. We help businesses grow through strategic digital marketing, performance analytics, and our upcoming self-serve AI ad management platform.
+
+## About
+
+Big Story Media LLP is a digital marketing consultancy focused on delivering measurable results through data-driven advertising strategies across Meta, Google, LinkedIn, and other platforms.
+
+## Services
+
+- [Digital Growth Consultation](/services) - Strategic roadmaps and optimization advice for businesses
+- [Performance Advertising](/services) - Meta Ads, Google Ads, LinkedIn Ads management
+- [Performance Analytics](/services) - Data-driven insights and ROI tracking
+
+
+
+## Content
+
+- [Blog](/blog) - Digital marketing insights and industry updates
+- [About Us](/about) - Our team and values
+- [Contact](/contact) - Schedule a consultation
+
+## Contact
+
+Website: https://www.thebigstorymedia.in
